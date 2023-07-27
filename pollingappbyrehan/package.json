@@ -1,0 +1,24 @@
+{
+  "name": "pollingappbyrehan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdrehansiddiqui/polling-app.git"
+  },
+  "author": "Rehan Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdrehansiddiqui/polling-app/issues"
+  },
+  "homepage": "https://github.com/mohdrehansiddiqui/polling-app#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "firebase": "^10.0.0"
+  }
+}
