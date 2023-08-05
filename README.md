@@ -10,6 +10,6 @@ poling app firebase hosting link
 https://poling-hosting.web.app/
 
 
-crud app with cyclic ling
+crud app with cyclic link
 
 https://long-jade-ostrich-tux.cyclic.cloud/
